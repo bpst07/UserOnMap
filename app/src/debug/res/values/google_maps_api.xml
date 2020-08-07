@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=3E:C6:D9:78:62:4C:CD:AA:BF:0E:7E:7C:B3:EF:74:70:AC:F8:30:F0%3Bcom.arrow.java.project.useronmap
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.arrow.java.project.useronmap
+
+    SHA-1 certificate fingerprint:
+    3E:C6:D9:78:62:4C:CD:AA:BF:0E:7E:7C:B3:EF:74:70:AC:F8:30:F0
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">YOUR_KEY_HERE</string>
+</resources>
